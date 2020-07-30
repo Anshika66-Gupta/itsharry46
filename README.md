@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<html>
+  <body>
 <style>
   p{color: red; background-color:red;}
  </style>
 
 <p align="center";>Hi I am Hariharan Achary</p>
+</body>
+</html>
