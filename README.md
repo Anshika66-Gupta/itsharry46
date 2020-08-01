@@ -35,6 +35,6 @@
 
 ---
 <img align="left" alt="itsharry46 Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsharry46&show_icons=true&hide_border=true" /> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry46&hide_border=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry46&hide_border=true)
 
 <h1 align="center">Thanks For Visiting❤️ | Need Help DM.</h1>
