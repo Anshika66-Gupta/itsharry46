@@ -1,6 +1,6 @@
 #### Hi there, I'm Hariharan Achary 👋
 
-
+![gif](https://https://github.com/itsharry46/itsharry46/blob/master/code.gif?raw=true)
 
 
 Here are some ideas to get you started:
