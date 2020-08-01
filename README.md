@@ -29,4 +29,7 @@
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/svg/919/919852.svg" />
 <img align="left" alt="PyQt5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />
 <img align="left" alt="PS" width="26px" src="https://image.flaticon.com/icons/svg/552/552220.svg" />
+<br /><br /><br />
 
+---
+<img align="left" alt="itsharry46 Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsharry46&show_icons=true&hide_border=true" /> 
