@@ -13,8 +13,10 @@
 
 ### Connect with me: 
 [<img align="left" alt="portfolio" width="26px" src="https://image.flaticon.com/icons/svg/922/922656.svg" href="https://itsharry46.github.io/Portfolio_Website/" />](https://itsharry46.github.io/Portfolio_Website/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />](https://linkedin.com/in/hariharan-achary-09b801193)
-[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://image.flaticon.com/icons/svg/185/185970.svg" />](https://www.behance.net/hariachary)
+[<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />](https://linkedin.com/in/hariharan-achary-09b801193)
+[<img align="left" alt="twitter" width="26px" src="https://i.pinimg.com/originals/f9/de/23/f9de23f7be87013196088a5be1827771.png" />](https://www.twitter.com/itsharry46)
+<br /><br />
+[<img align="left" alt="behance" width="26px" src="https://image.flaticon.com/icons/svg/185/185970.svg" />](https://www.behance.net/hariachary)
 <br /><br />
 
 
@@ -33,3 +35,6 @@
 
 ---
 <img align="left" alt="itsharry46 Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsharry46&show_icons=true&hide_border=true" /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsharry46&hide_border=true)
+
+<h1 align="center">Thanks For Visiting❤️ | Need Help DM.</h1>
