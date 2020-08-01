@@ -23,9 +23,10 @@
 <img align="left" alt="Sublime Text 3" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Bootstrap" width="26px" src="https://www.bestforpc.com/wp-content/uploads/2020/05/Bootstrap-Studio-Logo-Icon-Png.jpg" />
+<img align="left" alt="JavaScript" width="26px" src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/svg/919/919852.svg" />
-<img align="left" alt="XD" width="26px" src="https://image.flaticon.com/icons/svg/552/552224.svg" />
+<img align="left" alt="PyQt5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" />
 <img align="left" alt="PS" width="26px" src="https://image.flaticon.com/icons/svg/552/552220.svg" />
-<img align="left" alt="LR" width="26px" src="https://image.flaticon.com/icons/svg/552/552221.svg" />
+
