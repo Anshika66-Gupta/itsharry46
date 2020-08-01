@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hariharan Achary 👋</h1
 
-![gif](https://raw.githubusercontent.com/itsharry46/itsharry46/master/code.gif)
+<p align="center">![gif](https://raw.githubusercontent.com/itsharry46/itsharry46/master/code.gif)</p>
 
 
 ## I'm Full_Stack_Web_Developer & Student !
