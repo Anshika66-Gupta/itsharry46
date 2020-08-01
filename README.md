@@ -5,7 +5,7 @@
 
 ## I'm Full_Stack_Web_Developer & Student !
 
-- 👨🏻‍💻 I’m currently working live project as intern.
+- U+1F9D1 I’m currently working live project as intern.
 - 🧠 I’m currently learning everything.
 - 💭 I’m looking to collaborate on with other content creators.
 - 📢 Ask me about Web Development and Python Basic
