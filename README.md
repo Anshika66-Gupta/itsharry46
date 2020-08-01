@@ -5,10 +5,10 @@
 
 ## I'm Full_Stack_Web_Developer & Student !
 
-- 🔭 I’m currently working live project as intern.
-- 🌱 I’m currently learning everything.
-- 👯 I’m looking to collaborate on with other content creators.
-- 💬 Ask me about Web Development and Python Basic
+- 👨🏻‍💻 I’m currently working live project as intern.
+- 🧠 I’m currently learning everything.
+- 💭 I’m looking to collaborate on with other content creators.
+- 📢 Ask me about Web Development and Python Basic
 - ❤️ Fun fact: I am the laziest guy, and try to perform task in the shortest manner.
 
 
