@@ -1,9 +1,9 @@
-#### Hi there, I'm Hariharan Achary 👋
+<h1 align="center">Hi there, I'm Hariharan Achary 👋</h1
 
-![gif](https://https://github.com/itsharry46/itsharry46/blob/master/code.gif)
+![gif](https://raw.githubusercontent.com/itsharry46/itsharry46/master/code.gif)
 
 
-Here are some ideas to get you started:
+## I'm Full_Stack_Web_Developer & Student !
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,12 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<html>
-  <body>
-<style>
-  p{color: red; background-color:red;}
- </style>
 
-<p align="center";>Hi I am Hariharan Achary</p>
-</body>
-</html>
